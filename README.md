@@ -44,7 +44,7 @@ https://gcett-my.sharepoint.com/personal/sahabaj_momin_alumni_gcettb_ac_in/_layo
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Aninda2002/Deep-Learning-Based-Skin-Disease-Classification.git
+cd Deep-Learning-Based-Skin-Disease-Classification
 pip install -r requirements.txt
 python main.py
