@@ -48,7 +48,7 @@ git clone https://github.com/Aninda2002/Deep-Learning-Based-Skin-Disease-Classif
 cd Deep-Learning-Based-Skin-Disease-Classification
 pip install -r requirements.txt
 python main.py
-
+```
 
 ## 📊 Features
 - Image-based disease detection  
