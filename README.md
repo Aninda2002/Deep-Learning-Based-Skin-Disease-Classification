@@ -58,11 +58,12 @@ python main.py
 ---
 
 ## 📁 Project Structure
+```
 ├── data/
 ├── models/
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
