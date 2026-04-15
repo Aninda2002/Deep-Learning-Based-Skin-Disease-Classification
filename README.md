@@ -48,3 +48,35 @@ git clone https://github.com/Aninda2002/Deep-Learning-Based-Skin-Disease-Classif
 cd Deep-Learning-Based-Skin-Disease-Classification
 pip install -r requirements.txt
 python main.py
+
+
+## 📊 Features
+- Image-based disease detection  
+- Real-time prediction  
+- Scalable system  
+
+---
+
+## 📁 Project Structure
+├── data/
+├── models/
+├── requirements.txt
+└── README.md
+
+
+---
+
+## 🔮 Future Work
+- Improve accuracy with advanced models  
+- Deploy as a web app  
+- Use a larger dataset  
+
+---
+
+## ⚠️ Disclaimer
+This project is for educational purposes only and should not be used as a medical diagnosis tool.
+
+---
+
+## 📜 License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software with proper attribution.
