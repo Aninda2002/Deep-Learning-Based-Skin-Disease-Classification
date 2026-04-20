@@ -1,2 +1,12 @@
-# In the project we have used 6 different skin diseases
+## 📂 Dataset Structure
 
+The dataset is organized into 6 categories of skin diseases, each represented by a folder:
+
+- **C** → Basal Cell Carcinoma  
+- **M** → Melanoma  
+- **MN** → Melanocytic Nevi  
+- **R** → Tinea Ringworm, Candidiasis, and other Fungal Infections  
+- **SK** → Seborrheic Keratoses and other Benign Tumors  
+- **WM** → Warts, Molluscum, and other Viral Infections  
+
+Each folder contains images corresponding to its respective disease class, enabling efficient training and classification using deep learning models.
