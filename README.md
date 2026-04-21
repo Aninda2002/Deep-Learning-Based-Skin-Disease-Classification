@@ -16,7 +16,8 @@ This project presents a deep learning-based approach for classifying skin diseas
 
 ## 📂 Dataset
 Dataset Link:  
-https://gcett-my.sharepoint.com/personal/sahabaj_momin_alumni_gcettb_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsahabaj%5Fmomin%5Falumni%5Fgcettb%5Fac%5Fin%2FDocuments%2Farchive%20%282%29&viewid=4545d50d%2Da1fe%2D4f4a%2D8772%2Dbc3cd9aebe6a
+https://gcett-my.sharepoint.com/:f:/g/personal/aninda_sundar_paria_alumni_gcettb_ac_in/IgAa_sFiV_BTQrMrMykuswgCAYTkMo1TJ-hR2wpvFLSqkps?e=sHUB6u
+
 
 - Contains labeled skin disease images  
 - Multiple categories for classification  
