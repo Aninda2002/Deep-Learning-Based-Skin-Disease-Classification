@@ -26,8 +26,10 @@ https://gcett-my.sharepoint.com/:f:/g/personal/aninda_sundar_paria_alumni_gcettb
 
 ## ⚙️ Tech Stack
 - Python  
-- TensorFlow / Keras  
-- NumPy, Pandas  
+- TensorFlow / PyTorch
+- Keras  
+- NumPy
+- Pandas  
 - OpenCV  
 - Matplotlib  
 
