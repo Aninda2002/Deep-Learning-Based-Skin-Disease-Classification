@@ -1,3 +1,10 @@
-# Original Dataset with 10 different skin diseases
-https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset
+## 📂 Original Dataset Structure  
 
+The original dataset contains **10 different categories of skin diseases**, each stored in separate folders for clear organization and easy access.  
+
+Each folder includes labeled images corresponding to a specific skin condition, making it suitable for training and evaluating machine learning and deep learning models for multi-class classification tasks.  
+
+This dataset offers a wider variety of skin diseases compared to the modified version, allowing for more comprehensive analysis and robust model performance.  
+
+**Dataset Source:**  
+[Kaggle – Skin Diseases Image Dataset](https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset)
