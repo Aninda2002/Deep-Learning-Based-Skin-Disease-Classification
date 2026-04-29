@@ -36,7 +36,7 @@ https://gcett-my.sharepoint.com/:f:/g/personal/aninda_sundar_paria_alumni_gcettb
 ---
 
 ## 🔄 Workflow
-1. Data Preprocessing (resize, normalize, augment)  
+1. Data Preprocessing (resize, normalize, augmentation)  
 2. Model Building (CNN)  
 3. Training  
 4. Evaluation  
